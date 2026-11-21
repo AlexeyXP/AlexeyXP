@@ -26,9 +26,18 @@ I build and maintain enterprise CMS platforms with international teams. Over 12 
 
 I’m exploring how AI coding tools can help with everyday development and how to integrate AI features through APIs. I’ve completed Anthropic’s **Claude Code in Action** and **Building with the Claude API** courses.
 
-## 🎓 Certification
+## 🎓 Certifications
 
-- Sitecore developer certification
+| Certification | Issuer | Issued |
+| --- | --- | --- |
+| Building with the Claude API | Anthropic | May 2026 |
+| Claude Code in Action | Anthropic | May 2026 |
+| Algolia Certified Developer (ACD) | Algolia | July 2025 |
+| Algolia Search Engineering Basics (ASEB) | Algolia | November 2024 |
+| Sitecore XM Cloud Developer Certification (2023) | Sitecore | April 2024 |
+| Sitecore Certified Platform Associate Developer | Sitecore | April 2018 |
+
+[View credentials on LinkedIn](https://www.linkedin.com/in/alexey-smolyanko/details/certifications/)
 
 ## 🤝 Let’s connect
 
