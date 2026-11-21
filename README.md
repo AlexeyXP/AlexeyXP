@@ -20,7 +20,7 @@ I build and maintain enterprise CMS platforms with international teams. Over 12 
 
 ## 📂 Kentico repository
 
-- [devnet.kentico.com](https://github.com/AlexeyXP/devnet.kentico.com)
+- [devnet.kentico.com](https://github.com/AlexeyXP/devnet.kentico.com) — My fork of the Kentico DevNet extension registry. Developers use it to submit open-source Kentico EMS extensions for listing in the Kentico Marketplace.
 
 ## 🌱 What I’m exploring
 
