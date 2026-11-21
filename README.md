@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I’m Aliaksei Smalianka
 
-<!--
-**AlexeyXP/AlexeyXP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior .NET Developer & Sitecore Specialist at Brimit**
 
-Here are some ideas to get you started:
+I build and maintain enterprise CMS platforms with international teams. Over 12 years of working with Sitecore, I’ve built backend services, integrated external systems, and helped teams evolve their content platforms from traditional Sitecore XP implementations to headless solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I work with
+
+| Area | Technologies |
+| --- | --- |
+| Backend & integrations | C#, .NET, ASP.NET, REST, GraphQL |
+| Content platforms | Sitecore XP, XM Cloud, JSS, SXA, Content Hub, Umbraco |
+| Search & data | Solr, Algolia, SQL Server, Redis |
+| Delivery & automation | Git, Azure DevOps, Docker, Sitecore PowerShell Extensions |
+
+## 🛠️ Sitecore Hackathon projects
+
+- **2017 · Recommendations API Module** — built a recommendations module with Sitecore 8.2, SXA, and Azure Recommendations API. [Watch the demo](https://youtu.be/f_52qzRqxWA)
+- **2016 · Microsoft Office Add-ins** — worked on Office add-ins integrated with Sitecore 8.1.
+
+## 🌱 What I’m exploring
+
+I’m exploring how AI coding tools can help with everyday development and how to integrate AI features through APIs. I’ve completed Anthropic’s **Claude Code in Action** and **Building with the Claude API** courses.
+
+## 🤝 Let’s connect
+
+Happy to talk about Sitecore, .NET, headless CMS, or backend integrations.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/alexey-smolyanko/)
